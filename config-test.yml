@@ -1,1 +1,2 @@
-config-file:test222222
+config: 
+  file: test222222,version = 1
